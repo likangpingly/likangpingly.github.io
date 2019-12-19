@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+### <center>李康平-Java开发</center>
+#### <center>手机:13079833950|Email:[muzikangping@gmail.com](muzikangping@gmail.com)</center>
 
-You can use the [editor on GitHub](https://github.com/likangpingly/likangpingly.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 教育经历
+- 李康平/女/22岁
+- 本科/大连民族大学/计算机科学与技术 2016-2020
 
-### Markdown
+### 工作经历
++ 公司名称:上海挚极科技有限公司(上汽控股|Evcard 分时租车|500 人团队) 
++ 实习时间:2019.07-2019.11
++ 项目 1:订单系统
+使用 Spring、Mybatis、SpringMVC 实现订单分析的单点登录系统。
+创建索引并优化 SQL，为缓解 Mysql 压力，使用 Redis 做缓存，Elasticsearch 作为备用数据库。 部分功能采用帆软 BI 工具，目前项目正在往 FineBI 转移。
++ 项目 2:常州节能灯
+使用 Spring、Struts2、Hibernate、easyUI 实现节能灯管理系统。 使用注解、反射、POI 完成通用方法导出 Excel.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 专业技能
++ 计算机网络、数据结构、算法、数据库:熟悉。
++ Java SE、EE:掌握，了解集合实现原理、多线程锁机制，有扎实的 Java 编程功底和良好的编码习惯。 
++ JVM:熟悉 Java 虚拟机原理，了解垃圾回收机制。
++ Spring、Mybatis、SpringMVC:掌握。
++ Mysql:熟悉多表查询，了解索引，会优化 SQL 以及使用强制索引，了解主从复制，分库分表等思想。
++ Redis、Elasticsearch:了解基础查询语句，会简单使用 elasticsearch-head、kudu 插件。
++ Maven、Git、IDEA、Xshell 等工具:掌握。
 
-```markdown
-Syntax highlighted code block
+### 获奖记录
++ 蓝桥杯省赛一等奖。
++ 蓝桥杯国赛三等奖。
++ 2017 年国家励志奖学金。 
++ 2018 年国家励志奖学金。
++ 2020届大连市优秀毕业生。
 
-# Header 1
-## Header 2
-### Header 3
+### 项目经验
+<table >
+    <tr>
+        <td>
+            <p align="left">2019.5-2019.7</p>
+        </td>    
+        <td>
+            <p align="center">图书管理系统</p>
+        </td>    
+        <td>
+            <p align="right">SSM、maven javaServlet</p>
+        </td>
+    </tr>
+</table>
 
-- Bulleted
-- List
++ 使用 Spring、SpringMVC、Mybatis实现图书管理系统，使用 maven来管理项目。 
++ 使用连接池、缓存、日志等技术，完成对数据的增删改查。
 
-1. Numbered
-2. List
+<table >
+    <tr>
+        <td>
+            <p align="left">2018.12-2019.1</p>
+        </td>    
+        <td>
+            <p align="center">在线博客</p>
+        </td>    
+        <td>
+            <p align="right">ajax、java、Servlet</p>
+        </td>
+    </tr>
+</table>
++  基于 MVC 设计模式、使用 java、jsp、Servlet、Ajax 实现在线博客网页。
++ 实现注册、编辑、查看、评论等功能的网页在线博客。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/likangpingly/likangpingly.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<table >
+    <tr>
+        <td>
+            <p align="left">2018.6-2018.8</p>
+        </td>    
+        <td>
+            <p align="center">体育用品店</p>
+        </td>    
+        <td>
+            <p align="right">java、Servlet、mysql</p>
+        </td>
+    </tr>
+</table>
+ 
++ 设计数据库内容、编写 SQL 语句、完成数据调用以及页面显示。
++ 设计电商订购处理系统，可订购、浏览、销售商品，追踪物流等系统。
+### 自我评价
+大学期间担任班级团支书，专业成绩排名:年级 5%，并获得英语 4 级资格证书。 对编程有浓厚兴趣，善于思考，有钻研自学的能力，独立解决问题能力强。 喜欢开拓创新，敢于尝试新鲜事物， 有较强的组织及协调能力，注重团队合作。
