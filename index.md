@@ -32,54 +32,18 @@
 + 2020届大连市优秀毕业生。
 
 ### 项目经验
-<table >
-    <tr>
-        <td>
-            <p align="left">2019.5-2019.7</p>
-        </td>    
-        <td>
-            <p align="center">图书管理系统</p>
-        </td>    
-        <td>
-            <p align="right">SSM、maven javaServlet</p>
-        </td>
-    </tr>
-</table>
-
+1. 图书管理系统/2019.5-2019.7/SSM、maven
 + 使用 Spring、SpringMVC、Mybatis实现图书管理系统，使用 maven来管理项目。 
 + 使用连接池、缓存、日志等技术，完成对数据的增删改查。
 
-<table >
-    <tr>
-        <td>
-            <p align="left">2018.12-2019.1</p>
-        </td>    
-        <td>
-            <p align="center">在线博客</p>
-        </td>    
-        <td>
-            <p align="right">ajax、java、Servlet</p>
-        </td>
-    </tr>
-</table>
+2. 在线博客/2018.12-2019.1/ajax、java、Servlet
 +  基于 MVC 设计模式、使用 java、jsp、Servlet、Ajax 实现在线博客网页。
 + 实现注册、编辑、查看、评论等功能的网页在线博客。
 
-<table >
-    <tr>
-        <td>
-            <p align="left">2018.6-2018.8</p>
-        </td>    
-        <td>
-            <p align="center">体育用品店</p>
-        </td>    
-        <td>
-            <p align="right">java、Servlet、mysql</p>
-        </td>
-    </tr>
-</table>
- 
+3. 体育用品店/2018.6-2018.8/java、Servlet、mysql
 + 设计数据库内容、编写 SQL 语句、完成数据调用以及页面显示。
 + 设计电商订购处理系统，可订购、浏览、销售商品，追踪物流等系统。
+
+
 ### 自我评价
 大学期间担任班级团支书，专业成绩排名:年级 5%，并获得英语 4 级资格证书。 对编程有浓厚兴趣，善于思考，有钻研自学的能力，独立解决问题能力强。 喜欢开拓创新，敢于尝试新鲜事物， 有较强的组织及协调能力，注重团队合作。
